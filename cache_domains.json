@@ -21,6 +21,11 @@
 			"domain_files": ["daybreak.txt"]
 		},
 		{
+			"name": "debian",
+			"description": "debian primary apt mirrors",
+			"domain_files": ["debian.txt"]
+		},
+		{
 			"name": "epicgames",
 			"description": "CDN for Epic Games",
 			"domain_files": ["epicgames.txt"]
@@ -89,6 +94,11 @@
 			"name": "twitch",
 			"description": "CDN for twitch games / mods and addons",
 			"domain_files": ["twitch.txt"]
+		},
+		{
+			"name": "ubuntu",
+			"description": "Ubuntu primary apt mirrors",
+			"domain_files": ["ubuntu.txt"]
 		},
 		{
 			"name": "warframe",
